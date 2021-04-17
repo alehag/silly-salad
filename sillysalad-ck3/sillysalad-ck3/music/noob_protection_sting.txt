@@ -1,0 +1,4 @@
+﻿noob_protection_sting = {
+	music = "event:/music/noob_protection_sting.ogg"
+	weight = 35
+}

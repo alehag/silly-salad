@@ -20,6 +20,7 @@ noob_protection_event.1 = {
 		add_character_flag = noob_protection_flag
 		add_trait = noob_protection
 		add_internal_flag = special
+		play_music_cue = noob_protection_sting
 	}
 
 	option = {
