@@ -1,0 +1,10 @@
+﻿l_english:
+ noob_protection_decision:0 "Invoke Newbie Protection"
+ noob_protection_decision_desc:0 "The ancient law of Newbie Protection must be invoked, as [ROOT.GetName] obviously doesn't know what they're doing."
+ noob_protection_decision_tooltip:0 "Use this for Newbie Protection."
+ trait_noob_protection:0 "Newbie Protection"
+ trait_noob_protection_desc:0 "Having admitted they've got no idea what they're doing, [ROOT.GetName] now enjoys some divine boons."
+ noob_protection_event.1:0 "Newbie Protection invoked!"
+ noob_protection_event.1.desc:0 "I must admit I have no clue what I'm doing."
+ noob_protection_event.1.a:0 "Aye, and I will grow stronger for it."
+ noob_protection_event.1.b:0 "No, I am stronger than some think."

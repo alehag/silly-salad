@@ -1,20 +1,28 @@
+﻿namespace = noob_protection_event
 noob_protection_event.1 = {
-  desc = noob_protection_event.1.desc
+	desc = noob_protection_event.1.desc
 
-  type = character_event
+	type = character_event
+  
+	theme = friendly
 
-  left_portrait = {
-    character = ROOT
-    animation = happiness
-  }
+	left_portrait = {
+		character = ROOT
+		animation = happiness
+	}
+	right_portrait = {
+		character = ROOT
+		animation = scheme
+	}
 
-  option = {
-    name = noob_protection_event.1.a
-    add_character_flag = noob_protection_flag
-    add_trait = noob_protection_trait
-  }
+	option = {
+		name = noob_protection_event.1.a
+		add_character_flag = noob_protection_flag
+		add_trait = noob_protection
+		add_internal_flag = special
+	}
 
-  option = {
-    name = noob_protection_event.1.b
-  }
+	option = {
+		name = noob_protection_event.1.b
+	}
 }
