@@ -2,3 +2,7 @@
 	1. Added Noob Protection decision.
 	2. Added one Wheel result decision.
 	3. Changed the colour of Prussia to a darker colour
+
+let's call it 0.0.2
+	1. Noob Protection Event now notifies other nations when it's taken.
+	2. Commented out wheel result decisions
