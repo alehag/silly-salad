@@ -1,0 +1,1 @@
+xcopy "%__CD__%sillysalad-eu4" "%USERPROFILE%\Documents\Paradox Interactive\Europa Universalis IV\mod\" /S /Y
